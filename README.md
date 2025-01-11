@@ -1,0 +1,1 @@
+Scrie un program care afișează primele 5 numere impare dintr-un interval dat. Se vor citi de la tastatură 2 numere întregi: left respectiv right, care reprezintă capetele intervalului. În cazul în care în interval se găsesc mai puțin de 5 numere impare, se vor afișa toate numerele impare din interval. 
